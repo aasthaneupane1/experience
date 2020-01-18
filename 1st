@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/festivals.css">
+        <title>
+            Experiences | Visit Nepal 2020 |
+        </title>
+		<link rel="icon" href="tlogo/tlogo.png">
+		 
+		 
+		 
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+
+</style>
+		 </head>
+
+    <body>
+
+    </style>
+        <nav>
+            <div class="logo">
+                <img src="img/logo.png" alt="logo" width="100" height="50">
+            </div>
+           <center> 
+       		    <div class="menu">
+                <a href="index.html">Home</a>
+                <a href="experience.html">Experiences</a>
+                <a href="festivals.html">Festivals</a>
+                <a href="gallery.html">Gallery</a>
+                <a href="form.html">Contact</a> </center>
+            </div>
+        </nav>
+             <div class="row">
+            <div class="column">
+               <center> <h1>Experiences</h1></center>
+				<hr>
+				<p><h2> Old Kathmandu</h2>
+				</p>
+
+
+              <p>Even after suffering damage in the 2015 earthquake, 
+                the historic centre of old Kathmandu remains an open-air architectural museum of magnificent medieval temples, pagodas, pavilions and shrines.
+				Once occupied by Nepal’s cloistered royal family and still home to the Kumari, Kathmandu’s very own living goddess, Durbar Sq is the gateway to
+				a maze of medieval streets that burst even more vividly to life during spectacular festivals. For an introduction to old Kathmandu, 
+				follow our walking tours through the hidden backstreet courtyards and temples of the surrounding warren-like old town.</p>
+
+
+
+
+
+
+            </div>
+            
+                <h2>Everest Base Camp Trek</h2>				
+               <p> Topping many people’s travel bucket list is this two-week-long trek to 
+				the base of the world’s highest, and most hyped, mountain. Despite only limited views of Mount Everest itself, the surrounding Himalayan peaks 
+				are truly awesome, and the half-hour you spend watching the alpenglow ascend beautiful Pumori or Ama Dablam is worth all the altitude headaches
+				you will likely suffer. The crowds can be thick in October, but the welcome at the Sherpa lodges is as warm as their fresh apple pie.</p>
+            </div>
+            
+                <h2>Annapurna Circuit Trek </h2>
+                <p>This trek around the 8091m Annapurna massif is Nepal’s most popular trek,
+				and it’s easy to see why. The lodges are comfortable, there is little earthquake damage, the crossing of the 5416m Thorung La provides a 
+				physical challenge, and the sense of journey from lowland Nepal to Trans-Himalayan plateau is immensely satisfying. Our best tip is to take 
+				your time and explore the spectacular side trips, particularly around Manang. Road construction has eaten away at either end of the trek, but 
+				alternative footpaths continue to avoid the road. </p>
+            </div>
+
+            <div class="row">
+                <div class="column">
+                    <h2>Bhaktapur </h2>
+                    <p> Of the three former city-states – all Unesco World Heritage Sites – 
+					that jostled for power over the Kathmandu Valley, medieval Bhaktapur is the most atmospheric. Despite damage in the 2015 quake, its 
+					backstreets still burst with temples and pagodas, including the Nyatapola Temple, Nepal's tallest. Winding lanes lined with red-brick 
+					buildings lead onto squares used by locals for drying corn and making pottery – this is no museum but a living, breathing town where 
+					residents live their lives in public. For the full experience, stay overnight in a guesthouse or attend one of the city’s fantastic 
+					festivals.</p>
+                </div>
+                <div class="column">
+                    <h2> Chitwan National Park</h2>
+                    <p>In the ‘other Nepal’, down in the humid plains, Chitwan is one of 
+					Asia’s best wildlife-viewing spots and the place to don your safari togs and head into the dawn mist in search of rhinos and tigers. 
+					There’s plenty to keep you busy here, from scanning the forest for critters to visiting local Tharu villages, and the brave can even take a
+					guided walk through the jungle, surrounded by the hoots and roars of the forest. If you are lucky, you'll see gharial, spotted deer and 
+					wild gaurs, plus plenty of exotic birds. </p>
+                </div>
+                <div class="column">
+                    <h2>Bodhnath Stupa</h2>
+                    <p>The village of Bodhnath is the centre of Nepal’s exiled Tibetan 
+					community and home to Asia’s largest stupa, a spectacular white dome and spire that draws Buddhist pilgrims from hundreds of kilometres 
+					away. Equally fascinating are the surrounding streets, bustling with monks with shaved heads and maroon robes, and lined with Tibetan 
+					monasteries and shops selling prayer wheels and juniper incense. Come at dusk and join the Tibetan pilgrims as they light butter lamps and 
+					walk around the stupa on their daily kora (ritual circumambulation). </p>
+                </div>
+				<div class="column">
+                    <h2>Views from Pokhara</h2>
+                    <p>Nepal’s second-biggest tourist town may lack the historical depth of 
+					Kathmandu, but it more than makes up for this with a seductively laid-back vibe and one of the country’s most spectacular locations. The 
+					dawn views of Machhapuchhare and Annapurna, mirrored in the calm waters of Phewa Tal, or seen from the town’s hilltop viewpoints, are 
+					simply unforgettable. Take them in on a trek, from the saddle of a mountain bike or, best of all, dangling from a paraglider high above the
+					valley floor. </p>
+                </div>
+				<div class="column">
+                    <h2>Lumbini – Birthplace of the Buddha</h2>
+                    <p> A pilgrimage to the Maya Devi Temple, the birthplace of the Buddha, 
+					ranks as one of the subcontinent’s great spiritual journeys. You can visit the exact spot where Siddhartha Gautama was born 2500 years ago,
+					rediscovered only a century or so ago, and then tour a multi-national collection of temples. But perhaps the most powerful thing to do is 
+					simply find a quiet spot, and a book on Buddhism, and meditate on the nature of existence. Travel experiences don’t get much more profound 
+					than this.</p>
+                </div>
+				<div class="column">
+                    <h2>White-Water Rafting</h2>
+                    <p> Nepal is one of the world’s best rafting and kayaking destinations.
+					Fuelled by water rushing down from Himalayan peaks, rivers such as the Trisuli and Bhote Kosi promise thrilling white water for day 
+					rippers. Even better are the multiday adventures – liquid journeys that take you down the Karnali, Tamur and Sun Kosi rivers through some 
+					of Nepal’s remotest corners. Companies such as Ultimate Descents Nepal offer everything from roller-coaster white water trips to serene 
+					floats through jungle wilderness, with nights spent camping on pristine sand beaches.</p>
+                </div>
+				<div class="column">
+                    <h2>Nepal’s Fantastic Festivals</h2>
+                    <p> Nepal has so many spectacular festivals that any visit is almost 
+					certain to coincide with at least one. Celebrations range from masked dances designed to exorcise unruly demons to epic bouts of tug-of-war
+					between rival sides of a town. For a full-on medieval experience, time your travel with one of the slightly mad chariot processions, such 
+					as the parade of Rato Machhendranath, when hundreds of enthusiastic devotees drag tottering 20m-tall chariots through the crowded city 
+					streets of Kathmandu and Patan.</p>
+                </div>
+				<div class="column">
+                    <h2>Swayambhunath</h2>
+                    <p>The iconic whitewashed stupa of Swayambhunath is both a Unesco World Heritage Site and one of Nepal’s most sacred Buddhist shrines. The great stupa – painted with iconic, all-seeing Buddha eyes – survived the 2015 quake with only minor damage and it remains a focal point for Buddhist devotion. Pilgrims wander the shrines, spinning prayer wheels and murmuring mantras, while nearby astrologers read palms, and shopkeepers sell magic amulets and sacred beads. Come at dusk for spectacular views over the city lights of Kathmandu. </p>
+                </div>
+				<div class="column">
+                    <h2>Patan</h2>
+                    <p>Kathmandu’s sister city doesn’t get the attention it deserves. The city of Newari traders, interconnected Buddhist courtyards and hidden temples has a greater cultural cohesion than any other city in Nepal. Wander the fascinating backstreets, the magnificent central Durbar Sq and the Patan Museum, easily the best museum in the country. Throw in four ancient Ashoka-era stupas and the valley’s best collection of international restaurants and it’s clear you need a couple of trips to take it all in. Spend the night here and you’ll have the backstreets all to yourself. </p>
+                </div>
+				<div class="column">
+                    <h2>Momos</h2>
+                    <p>These little meat- or vegetable-filled dumplings are Nepal’s unofficial national dish. Enjoy them in a grandiose Newari restaurant, at a shared table in a backstreet Tibetan kitchen such as Yangling Tibetan Restaurant, or in a trekking lodge overlooking the Annapurnas – they are the quintessential taste of the Himalaya. Join a cooking class to learn how to make these deceptively simple morsels that are savoured from China to Central Asia. Kathmandu’s restaurants also fill them with apple and cinnamon, and serve them with ice cream. Yum! </p>
+                </div>
+				<div class="column">
+                    <h2>Langtang Valley</h2>
+                    <p> Nepal's third great teahouse trek is nestled in a lovely Alpine Valley next to the Tibet border. Combing lush bamboo and Himalayan forest with high peaks, pastures and glaciers, Langtang offers incredible variety, especially if you add on a side trek to the holy Gosainkund lakes, set in a mountain bowl at 4400m. Langtang suffered greatly in the 2015 earthquake, but the lodges have been rebuilt and the trails improved, and the trek is open for business. The nearby newly opened border with Tibet offers a superb new overland add-on.</p>
+                </div>
+				<div class="column">
+                    <h2>Bandipur</h2>
+                    <p>Halfway between Kathmandu and Pokhara is this perfectly preserved ridgetop village of traditional 18th-century Newari houses and temples. Apart from just enjoying the peace and quiet, there are some fine walks to be had in the surrounding hills, while adventurous types can arrange to abseil into the Siddha Gufa cave, paraglide over the village or go canyoning in nearby waterfalls. At the end of the day several well-run guesthouses offer atmospheric accommodation in restored Newari mansions. </p>
+                </div>
+
+    </body>
+</html>
